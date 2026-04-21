@@ -1,0 +1,501 @@
+BusinessID,BusinessName,Industry,EstablishedYear,AnnualRevenue_QAR,Historical_CreditScore,LatePayments_Last12M,Currency
+55ecde6e-c25b-4714-966e-73ada07a05ac,Desert Est.,Technology,2007,4804572,320,6,QAR
+9fda2fed-7145-4e53-99ed-a892dbb05508,Qatar Solutions,Technology,2010,12933495,672,3,QAR
+9ff92798-ab50-49a6-b08f-e60035710ff0,Gulf International,Healthcare,2001,14453367,791,13,QAR
+863e913c-6dfd-42d7-8c2e-ae5cea927ca2,Zubara Group,Hospitality,2020,1762752,759,9,QAR
+0baad1f6-1d7b-4454-860b-3df6acdacd4f,Zubara Est.,Hospitality,2016,6243066,358,14,QAR
+a9b82faa-0010-4ec9-9e13-4bd5e57f5983,Qatar WLL,Hospitality,2015,10389550,489,13,QAR
+08ef9660-065a-4efd-8b2d-a90e2b9e6c95,Zubara Solutions,Hospitality,2022,12363283,804,2,QAR
+826471e2-277e-4a0d-961b-6698230247b9,Pearl Solutions,Healthcare,2008,11459014,573,3,QAR
+0b18f2e4-6998-48aa-94bb-82d87a70f533,Doha WLL,Logistics,2017,11684121,645,4,QAR
+9b16450d-3704-458f-8d56-aebb03aab3ef,Qatar WLL,Hospitality,2014,4556518,727,12,QAR
+b2ba5a71-efb9-4929-aae2-2490f238b857,Gulf International,Retail,2003,11446097,687,1,QAR
+a426809d-fa93-46ad-bb5d-94e75dcc1331,Zubara International,Logistics,2009,6058019,776,14,QAR
+acbb81e0-1eed-4474-bfeb-43fafb089c9b,Qatar Group,Hospitality,2001,3158505,569,14,QAR
+285b2d5b-0fac-4f84-ad33-8d1d2f6a0187,Zubara WLL,Retail,2007,3866612,637,14,QAR
+49752fc3-e727-4628-a6a8-af5f33a79eb7,Pearl Group,Retail,2012,1785160,456,14,QAR
+309af6d5-fadd-4512-985e-3248e99073f2,Pearl Trading & Contracting,Retail,2006,7056168,643,0,QAR
+f206da49-6a24-4528-99ea-9afd4c443311,Desert Solutions,Technology,2016,2237095,718,0,QAR
+bd92ca43-2575-43b3-9de1-4071a0896333,Gulf Est.,Construction,2006,11836697,340,11,QAR
+e1a60f71-5698-4080-a177-f053469b5d52,Doha WLL,Construction,2000,5045583,802,6,QAR
+e95afead-ddbc-4c07-9b9e-83227bc44731,Zubara Est.,Technology,2011,4102279,846,0,QAR
+2be4ab74-d472-47ec-8d95-64d3abf531ae,Gulf Est.,Logistics,2002,13266976,304,9,QAR
+a3b2f70b-0a82-48eb-948b-b421bfa3b056,Zubara Solutions,Retail,2014,8058158,760,2,QAR
+4790aa33-81b3-4eb9-8fc5-197a308e0ba1,Doha WLL,Healthcare,2003,6154237,784,6,QAR
+cdeab856-2422-4f20-ade2-a5537d9fe4b6,Pearl Solutions,Healthcare,2003,6716204,459,6,QAR
+49a221e0-fd63-42d7-bc83-c390d57c0f8a,Gulf Solutions,Logistics,2001,14502857,327,11,QAR
+e811434b-72bc-4129-9174-87a42682fa93,Desert WLL,Logistics,2010,1042335,805,6,QAR
+5052437f-88b2-4a5f-a013-119530e876d7,Desert Trading & Contracting,Logistics,2000,11671200,676,10,QAR
+8fd76ce1-3a98-4bd4-a2b8-5f1f5d458f01,Zubara Trading & Contracting,Hospitality,2012,6322184,558,6,QAR
+f6c989ea-c2e5-4796-b9bb-b76a545bf131,Zubara Solutions,Retail,2004,4922880,533,11,QAR
+587a19ec-9a02-4289-a681-afcffe0770ce,Gulf International,Retail,2019,1996176,796,9,QAR
+c688ed41-81a5-4efb-a3f2-6487650dcc85,Desert WLL,Logistics,2006,5459617,686,0,QAR
+c92815e6-4f9b-49d1-aa87-590dde84f191,Pearl Trading & Contracting,Retail,2016,725281,519,5,QAR
+42f674cc-6789-46a3-83df-86a571c9c6df,Pearl Trading & Contracting,Retail,2018,4872093,429,4,QAR
+85a85a4b-aadc-43f4-be43-2bed429c1e2d,Desert Group,Logistics,2022,1619043,738,10,QAR
+e0076163-6451-4ec0-8016-b86141c4d5b9,Gulf Trading & Contracting,Logistics,2004,13188993,497,5,QAR
+e0f41890-60e9-45eb-8314-06469e548da1,Gulf Trading & Contracting,Retail,2005,2648815,648,2,QAR
+cc2948d6-054f-403f-a768-b64a2dcb7ea1,Desert WLL,Technology,2003,4635314,645,2,QAR
+9665f15d-6b42-49be-9c99-c2101250e4ba,Gulf WLL,Hospitality,2008,13560007,850,1,QAR
+3fd90f39-27f2-4537-aa54-d0f0f9435531,Doha Solutions,Hospitality,2017,12605878,714,13,QAR
+081bc0c3-3ee7-48b9-8ee2-05afb736105b,Qatar Solutions,Hospitality,2015,4004473,301,0,QAR
+df44e2f9-c1ed-4bcf-843b-cab4d7a9142c,Zubara WLL,Healthcare,2004,1741082,308,8,QAR
+ebd7328c-1073-49d9-ba0c-46c019a0859e,Gulf Solutions,Technology,2019,2079159,353,7,QAR
+56f373a4-2c34-40fa-8a02-09ff5e65e896,Doha WLL,Technology,2016,6824167,719,5,QAR
+591df44b-c239-45bd-93e0-ab2b9f4ee59e,Desert International,Technology,2015,11810552,398,8,QAR
+19f0ba79-9832-45c0-bc60-441edf096975,Pearl Group,Logistics,2017,5820385,462,12,QAR
+a7d640ba-4bbe-483c-bbb7-47c52b9608b4,Doha WLL,Retail,2003,12844096,697,4,QAR
+6c2cb0c5-0c2f-463b-bcb0-41fd9579c4aa,Desert Solutions,Retail,2000,4801754,769,6,QAR
+bb46d4df-bc3d-4978-b471-67622a5d929c,Zubara International,Logistics,2005,10508805,664,2,QAR
+1061b881-48fa-4031-97d3-9b4d19913af2,Zubara Solutions,Technology,2001,10903092,583,14,QAR
+492147e8-2ff1-4cd1-8fdd-08b540c24933,Doha Est.,Hospitality,2015,7765795,846,0,QAR
+2c020d4f-c3dc-47fb-9b94-ef9f69cce18c,Doha WLL,Hospitality,2013,3944084,817,2,QAR
+005356b0-24e5-4918-bf3a-34e7e2582f07,Desert Trading & Contracting,Healthcare,2016,9019981,480,14,QAR
+9365be41-4a45-4a97-b318-5b72a99c3659,Gulf WLL,Retail,2019,6857182,552,4,QAR
+f0f2abd7-9cb4-4773-a437-d6c2fa2af44e,Doha Solutions,Construction,2009,11499518,622,7,QAR
+971a69b0-15c6-4558-b3ed-f081b28f7c5c,Zubara Group,Logistics,2022,14953697,454,9,QAR
+74e5e61b-502b-4b07-ad99-8fd7864e4446,Qatar Group,Retail,2007,7815360,692,10,QAR
+ac20a64a-3570-4ee4-828a-ee3d5118aedd,Zubara Est.,Construction,2022,8282937,707,12,QAR
+897326c8-0716-4038-989a-25855f5c3eb8,Desert Group,Retail,2003,6599628,319,0,QAR
+71a49cf2-781c-43f6-b81e-0292b8c781c0,Zubara International,Hospitality,2018,9337590,442,11,QAR
+e99103ca-d891-4178-8421-bf42b7b30997,Qatar Group,Logistics,2018,3739576,489,12,QAR
+e5ab6fe8-fda8-444a-a5d1-e25f291b2dff,Zubara Group,Construction,2021,1579600,353,10,QAR
+54121f95-1f67-44f6-98a3-dccef45f40bb,Desert Est.,Retail,2007,2485588,304,6,QAR
+1f014bdf-cce9-48ae-9eb3-ae2b86a87083,Desert International,Healthcare,2019,5643901,346,2,QAR
+2f98cb88-3f7a-4ece-84bf-37889ff44612,Desert Est.,Construction,2009,11855805,419,14,QAR
+acd2216f-0cca-4377-b371-3f342a22909d,Gulf WLL,Construction,2022,4195961,773,4,QAR
+a070b621-c3da-4991-b73a-f45d7d71d707,Zubara Trading & Contracting,Hospitality,2020,6595929,812,14,QAR
+237675ec-660e-4eaf-a29f-a6b463efaf85,Qatar International,Logistics,2015,14151544,787,12,QAR
+a94aac65-ca27-48a3-b13f-1729f65d2c88,Pearl Trading & Contracting,Healthcare,2006,4199391,746,4,QAR
+0b28d023-99ae-4a20-8132-2be0f7dd00a0,Zubara Est.,Technology,2011,2664367,734,4,QAR
+50d377bc-ba6c-4a48-b4c0-27c2b3aa4b33,Zubara Trading & Contracting,Healthcare,2013,8898043,368,14,QAR
+8e11620c-1260-46b1-8677-1e3687104385,Doha International,Logistics,2019,7017963,517,9,QAR
+39418894-355b-486c-be9d-038be22e20ff,Pearl WLL,Retail,2004,788790,821,5,QAR
+c3e2c7e0-bf8a-4b64-a8f6-978e78702731,Pearl WLL,Construction,2019,4193305,741,0,QAR
+341801fa-33ed-4618-b4da-9c6349a1f463,Pearl Est.,Hospitality,2015,1600567,635,6,QAR
+08923ca9-ce81-44e0-a1da-cff70eb17652,Qatar Trading & Contracting,Hospitality,2019,5892023,679,0,QAR
+165f9fd2-6a99-4388-9db7-29df8cb46972,Doha Est.,Technology,2010,751492,567,2,QAR
+079b2fbd-d8a5-4e31-ae78-acf052947c0b,Doha Trading & Contracting,Construction,2010,2555723,584,12,QAR
+cabdc5e7-fbb2-4a4f-961a-1a84d0753f33,Desert International,Construction,2018,5080081,334,6,QAR
+d11c6c1c-379c-43ff-aeb2-461ae19722ec,Doha Group,Healthcare,2009,3853597,717,2,QAR
+efd379aa-5252-4dc7-a553-62fa95e8ab5d,Doha WLL,Construction,2020,3422097,792,10,QAR
+4cf7dc29-1d82-4c7c-b7ce-2354802518fc,Pearl WLL,Retail,2020,12254492,693,4,QAR
+a63a1e3d-0c7c-4fbd-9bf3-e0242041d37c,Doha Solutions,Retail,2002,11071759,847,1,QAR
+d47af646-30ec-40ef-83a5-83d631f7622d,Doha International,Healthcare,2011,14298768,824,6,QAR
+79709b06-3de2-42f0-8412-4e1ea23ba597,Doha Solutions,Retail,2016,13717648,361,3,QAR
+42181c5e-cf84-4e9a-b788-ac998a3c799a,Doha International,Healthcare,2018,11164112,695,12,QAR
+8817d47d-cac1-4198-9866-0eaa43363c9a,Doha Solutions,Hospitality,2008,12987110,683,3,QAR
+7da03b20-377f-4527-b7ac-78ce37630f9a,Gulf Group,Healthcare,2004,1539458,695,8,QAR
+ec1bc2dd-e965-4b47-97ac-cb6c92fc720b,Desert Solutions,Healthcare,2003,4288340,450,8,QAR
+6ef92120-2444-47f7-931c-5fdc922e5ef9,Pearl Est.,Construction,2006,11898366,432,2,QAR
+e66e43e7-4ac8-43e6-9257-2a5332d98c91,Pearl Solutions,Technology,2017,10664811,308,9,QAR
+b67b3190-26ce-4fe2-88d6-f2c650072f7b,Qatar WLL,Retail,2005,9414438,473,12,QAR
+dd9d17d3-c812-432b-904f-08248f793b1f,Qatar Trading & Contracting,Construction,2001,14346020,328,4,QAR
+d148a1b1-ab0b-4c23-a891-b7c6345b0cb3,Zubara Solutions,Healthcare,2000,6743669,799,0,QAR
+a38cbde2-01d1-401b-b3c2-431bc9a52807,Doha Est.,Hospitality,2003,5909861,551,14,QAR
+56e2a972-6737-4485-b9cc-642d56db137a,Gulf Est.,Hospitality,2021,8915398,390,9,QAR
+e484006a-454a-4b6b-8ac6-99f56bc1fa42,Qatar Solutions,Logistics,2002,12776465,519,13,QAR
+1b56deea-0a5a-48f2-a130-2165c7f4bd43,Qatar WLL,Hospitality,2007,1954908,660,6,QAR
+b38eb382-6e5d-46c7-9936-4f06b9c91c3a,Doha Solutions,Healthcare,2016,4193976,416,5,QAR
+3a34868a-73c6-43ab-8d40-3c257be8253a,Qatar WLL,Healthcare,2012,1321052,448,5,QAR
+83572424-e0cf-456e-808f-9a16a90957cd,Pearl Solutions,Hospitality,2004,13342659,526,2,QAR
+a1df10ef-14cf-48fb-8f1b-c8a9ea0665f7,Desert Trading & Contracting,Construction,2014,2614792,604,13,QAR
+6d340f84-ef90-4f99-b890-421cfec6ec2b,Doha Est.,Logistics,2021,6467106,770,8,QAR
+21cf7322-9896-486d-a874-d2e8a4369ddf,Gulf WLL,Construction,2015,11373803,707,11,QAR
+338b5c1e-a2dc-441b-82bb-74942c02e89f,Pearl Group,Hospitality,2003,12358009,615,1,QAR
+f802e132-1826-4a79-9bcb-e230a0a1ac24,Desert WLL,Healthcare,2008,9679875,801,14,QAR
+f967a73c-112c-43ba-8b1c-44397e8fb81a,Doha Trading & Contracting,Retail,2020,6062067,760,11,QAR
+578b5afb-92f9-4827-92e9-00d63f3ff13e,Pearl Est.,Logistics,2002,10055196,689,1,QAR
+5e4d0f22-12e9-4dd4-b36b-5bf02632f5ba,Gulf Est.,Retail,2001,3580201,541,10,QAR
+3aab7c77-31bc-4312-973b-82c037553aac,Pearl Est.,Retail,2021,8916320,445,14,QAR
+50646c01-5e6b-40ab-9276-b28c46796565,Doha Solutions,Healthcare,2021,4963418,760,0,QAR
+7cb86072-9e72-4ee9-8ab4-b410c4defb77,Qatar Trading & Contracting,Technology,2000,8889012,817,11,QAR
+5e94ab2f-34dd-4f10-8191-1409d48c0c88,Doha Est.,Healthcare,2005,13425698,736,6,QAR
+4888228f-576d-480e-a169-d2caa7fb824e,Pearl Est.,Healthcare,2009,9051881,382,0,QAR
+93345e37-2839-46fd-a685-8ae4f950cfb3,Pearl International,Retail,2013,6695200,350,12,QAR
+e256e63b-bfd8-4653-aa8d-7946e78a2ba4,Pearl WLL,Logistics,2000,13783815,333,11,QAR
+49888006-b5d5-4efc-99b3-754a35d31a51,Qatar Group,Construction,2021,12470677,605,11,QAR
+bc838e94-9ebf-44bf-882a-269417128d7e,Doha International,Hospitality,2004,11111677,700,14,QAR
+2660cb4b-f882-4f7e-8379-65d588c7cf1d,Pearl Est.,Logistics,2001,2034026,734,6,QAR
+c0d84369-a5f2-4aff-bbc1-928b7dfa1eec,Zubara WLL,Construction,2005,11748945,397,1,QAR
+85a386d3-634b-4df0-a871-ac90c280693a,Zubara Solutions,Technology,2001,3073619,548,5,QAR
+94fb262e-6515-47f5-be77-7ca22323fc30,Doha WLL,Logistics,2022,1207689,380,4,QAR
+2429319e-3b99-4aea-aa74-dc7463cc576b,Pearl WLL,Construction,2016,14642224,807,3,QAR
+06c89c7e-6f53-4e01-b748-9e6743d34371,Pearl Group,Logistics,2020,3191276,425,10,QAR
+d3485afc-2300-44de-8c49-825e1b1456d3,Gulf Solutions,Technology,2014,13762486,482,14,QAR
+7c2ee1c6-8d77-4f43-ad1b-0d604ca0c882,Gulf International,Hospitality,2007,5606563,580,2,QAR
+c68db96b-af78-4e93-8f86-16cc1b98a0f3,Gulf Solutions,Healthcare,2017,2101596,350,2,QAR
+d384a72d-22d9-454f-8b0a-4fe608fe97e0,Pearl Est.,Construction,2009,5779548,833,4,QAR
+455d487e-27b3-4964-a8bf-f542fb85c5ac,Zubara Trading & Contracting,Healthcare,2008,2745131,645,13,QAR
+a88ec1c0-fcd7-4851-9024-3696cf4102f7,Qatar Trading & Contracting,Logistics,2012,5955770,372,9,QAR
+216b21a1-e474-47b7-a26a-e6a978bc5ea1,Doha Trading & Contracting,Logistics,2014,11172477,406,14,QAR
+398f494d-b64d-44e3-be68-f1ed11644713,Pearl Trading & Contracting,Construction,2003,7001632,307,0,QAR
+6948964c-c5f6-4472-9a89-052ea9f5defc,Gulf Est.,Hospitality,2014,6660686,355,5,QAR
+6f279fb6-c34b-439d-8fc4-56e68ca747e9,Zubara Group,Hospitality,2022,567661,515,1,QAR
+09a75b53-beff-4af1-800f-81f5e7afa756,Pearl Group,Logistics,2018,10859814,302,14,QAR
+8d76de79-7757-44ca-a5ea-cb7d37624982,Zubara Solutions,Hospitality,2012,618033,805,5,QAR
+39c8e736-7d6a-4828-b200-488195457aba,Gulf Solutions,Retail,2022,10310404,327,9,QAR
+2f31c87a-1a05-4fdf-990a-9633e594cad9,Doha Trading & Contracting,Logistics,2011,12301112,444,12,QAR
+af87132d-a27a-4a10-8556-5c512e237628,Desert Trading & Contracting,Hospitality,2009,967010,532,12,QAR
+ec46163d-3270-4ef0-a579-494d00d34ca0,Qatar WLL,Logistics,2001,13620110,668,11,QAR
+c1098e84-f508-4fed-ba0b-8593399be254,Gulf Group,Retail,2004,5696467,581,1,QAR
+32fc7e6d-228a-4a04-9ea0-362bb64b1442,Gulf Solutions,Healthcare,2005,1814532,676,0,QAR
+ec1dbccd-006f-4a28-95f0-0b4f1c9b7372,Pearl International,Healthcare,2005,9414501,802,3,QAR
+58c615fe-58bb-42e6-8164-bef38462992f,Zubara Solutions,Logistics,2022,11109800,542,14,QAR
+34003a0b-4f27-47f0-b254-363709938547,Pearl WLL,Logistics,2001,8143603,374,3,QAR
+6aa98e29-ae92-43df-b70b-6efe0ecd5f50,Zubara International,Retail,2005,3396818,740,1,QAR
+1336bf4e-74fd-4d15-812e-d853ad146820,Gulf Group,Technology,2012,8886180,625,9,QAR
+502de1ae-db26-441a-8130-7b1975fe6063,Zubara WLL,Technology,2019,8540979,412,11,QAR
+a32cd16b-5687-4528-a7f1-1ee12add24d3,Doha Group,Logistics,2005,13871172,438,14,QAR
+9c754e55-11b4-412d-95e0-f04697290385,Desert Est.,Technology,2002,4976576,309,4,QAR
+47bf44f3-9572-42c5-ab4b-78ee031d8c38,Qatar WLL,Construction,2012,4699591,620,14,QAR
+42533d7b-df98-42f7-86ce-012ef836c041,Pearl Trading & Contracting,Retail,2008,8612074,849,6,QAR
+35021a8b-9017-46f5-b24d-73baca482221,Gulf International,Retail,2004,11213405,535,1,QAR
+8fc9b6a3-3cc8-48fe-a512-92b4e396fede,Zubara Est.,Technology,2008,8560833,846,0,QAR
+dc4f8719-4b66-4610-b3ec-670abf5076d9,Zubara WLL,Healthcare,2007,10372232,528,13,QAR
+7ae2dbd4-f848-489f-9722-444e7e9082b7,Desert International,Technology,2020,12574148,304,2,QAR
+044e7003-68bd-4113-9a45-10b14705245a,Gulf International,Construction,2003,9951244,341,8,QAR
+5817d481-ffe3-4019-96a3-6987f40c3ab5,Qatar International,Technology,2005,3586176,322,14,QAR
+5a0e4fb4-f1c9-4150-989b-919212d5dc88,Doha Trading & Contracting,Retail,2000,4181262,802,1,QAR
+f83a1f17-1fe1-4ebf-9279-272a9bb889a1,Zubara Est.,Technology,2006,8405477,690,2,QAR
+11b75d0c-bae5-483c-80c6-163e6fcdf937,Qatar WLL,Healthcare,2000,9996563,777,6,QAR
+1ccd2fcd-f3a5-4e96-9e6d-db267b080be1,Gulf WLL,Healthcare,2005,10821336,396,12,QAR
+8eec94a9-231b-4fbf-8d32-17d13fb0a9c5,Pearl Solutions,Retail,2003,13928545,821,4,QAR
+f2aef9b2-66cd-4134-9ef9-f624317ae4c0,Gulf Group,Retail,2021,4557893,458,14,QAR
+680b54b7-1714-45b6-a8ec-7b8572e6cc16,Desert Est.,Hospitality,2014,2305468,560,12,QAR
+b33da5c5-b2c4-4b72-9ca1-7dd7ea8cc457,Desert WLL,Healthcare,2001,2580154,394,2,QAR
+5c5a26af-e8c1-433e-b698-e0d88213a188,Gulf WLL,Hospitality,2010,6397498,368,3,QAR
+743ec70c-d834-4aa0-8be8-4654ca3b8bdd,Gulf International,Construction,2007,6343493,433,7,QAR
+e93bf984-bf92-437b-a326-60579e5aab10,Qatar International,Technology,2011,7784953,440,7,QAR
+353a543e-1580-4433-bf6f-58e163764429,Zubara Group,Retail,2000,11173774,759,11,QAR
+9ac32f03-f895-4d02-ad5f-d59bed4da726,Desert WLL,Healthcare,2004,1390695,426,9,QAR
+6ed3fd91-ed37-49fd-a0a8-43883546f03b,Doha WLL,Construction,2008,10188053,350,12,QAR
+346d86ff-c5dc-4328-93b2-22d73b795c76,Zubara Trading & Contracting,Logistics,2010,7460534,704,9,QAR
+60e401c5-f7c0-4264-883b-845c58d55065,Zubara WLL,Logistics,2022,12840024,300,14,QAR
+2077e8d1-e601-4ec5-be85-ef2aa4f6b8cd,Zubara Solutions,Healthcare,2014,818408,608,8,QAR
+cbc8d1fe-ff99-41d0-91a8-257d5728abaa,Qatar WLL,Retail,2020,9772985,543,8,QAR
+c6b81773-0d45-4946-b0c1-84c254cb4441,Qatar Solutions,Logistics,2001,4178086,509,10,QAR
+ecae741e-b3f8-465c-921d-8b2bb8cfe2d3,Qatar Solutions,Retail,2010,7357658,478,5,QAR
+6addb051-640c-41f1-9af6-17088edbe644,Doha WLL,Logistics,2020,3864695,460,0,QAR
+e91b23d6-f0fb-46bb-90f6-bf291f4b2a1d,Pearl Solutions,Logistics,2017,10183910,383,8,QAR
+9edb8b5f-aa28-47f5-947c-407469e1ba9e,Doha WLL,Logistics,2021,14752507,362,12,QAR
+4c876cb8-c461-4024-9bbd-41314ebfa394,Doha Trading & Contracting,Healthcare,2022,4827858,617,13,QAR
+d2d12adc-584d-4b1f-90f1-e1bf2a3ac935,Pearl Trading & Contracting,Healthcare,2015,10555079,318,1,QAR
+8d343f2d-5b11-4f31-b356-644170abb387,Doha International,Technology,2014,1805585,493,5,QAR
+348ba48d-ef7d-4c11-9ae5-c783c6c2f25a,Desert Trading & Contracting,Construction,2005,12940382,563,12,QAR
+ced108da-3ace-4e80-b36d-2757b7a7d64e,Gulf Group,Construction,2018,14993549,461,11,QAR
+da3143cb-b933-425d-832a-984293cf12db,Doha WLL,Construction,2006,11984508,307,0,QAR
+ac47c351-1113-4b93-a9e8-7ef36270335e,Doha Solutions,Technology,2007,11435349,538,4,QAR
+8f62f8e0-015d-4eb0-bf96-a8e09cb41a14,Gulf Solutions,Retail,2014,9360935,717,2,QAR
+36d5afc4-9d5e-45b1-88ce-80b827210a5b,Zubara International,Technology,2015,11891427,799,4,QAR
+b4f0922e-f23e-4d0b-b3b8-47b2e7755319,Zubara Est.,Logistics,2022,8250575,306,9,QAR
+bdb6af55-27b4-462a-b090-ba0522583431,Doha Est.,Technology,2015,8007324,847,12,QAR
+7a50bdd1-c6b3-41b1-bcd0-d86202dd98bd,Desert Group,Construction,2000,4955214,822,9,QAR
+e3a7da99-9569-4c9b-8b9d-dda5a6e34130,Qatar Solutions,Hospitality,2019,13621796,555,13,QAR
+9459c1ef-ef88-4e20-a465-8e733a31bf8e,Doha Group,Healthcare,2011,3766402,799,9,QAR
+82ca176b-dea7-41e3-8ede-7ceaae98aa38,Zubara WLL,Retail,2009,14572989,358,13,QAR
+23a2a8b3-8bdf-427f-8460-33dd5bee7e42,Doha Group,Technology,2016,13609773,820,7,QAR
+df89d8df-563b-4adb-bed4-860c8ea7ad3a,Qatar Est.,Retail,2006,14155240,577,10,QAR
+dfc958e1-27e6-4fac-831c-b495502744ce,Zubara WLL,Construction,2012,12423158,374,5,QAR
+7ac81b3c-4d21-4be0-9695-9cc9a94f8884,Qatar Est.,Construction,2003,9077064,333,0,QAR
+da0d713f-83d5-44df-9548-a9079a426fd1,Pearl Trading & Contracting,Logistics,2011,14657398,641,4,QAR
+164d5170-ec36-4213-996f-4ef078bcf2d0,Gulf Trading & Contracting,Logistics,2007,3638145,567,12,QAR
+6ce3293d-d9da-43b6-998d-5e8f223acdc9,Doha Est.,Construction,2012,9817776,775,13,QAR
+c5e0f5ff-6948-48fd-bf6f-2ce9861321b8,Qatar International,Construction,2021,3837920,591,2,QAR
+718ae17a-5b6e-4349-8af6-e59c348a1cad,Qatar Est.,Healthcare,2010,1376031,412,10,QAR
+c1702c7a-b7ad-4922-8514-69ba7090c0f1,Gulf International,Construction,2022,4631479,705,4,QAR
+8d9f80f7-519c-4444-82ab-4ffc553c6e66,Doha Group,Hospitality,2014,2842035,766,2,QAR
+4af7ec99-e7f5-4406-8f54-061b45602388,Desert Solutions,Retail,2012,10500362,781,8,QAR
+f887b4cc-c101-4d1d-b633-4763db5506d6,Qatar Group,Healthcare,2008,4447208,595,0,QAR
+d8d79c4c-03ce-47f1-b020-2bf30956fa03,Doha Trading & Contracting,Healthcare,2010,3204999,341,8,QAR
+bfe02e2f-f0c3-4149-b400-cf6af950f601,Gulf Solutions,Construction,2004,10547595,471,2,QAR
+c8e5074b-d6cb-43d7-8645-511973561505,Zubara International,Construction,2011,7367218,343,10,QAR
+601bf4fe-0525-4a87-98f8-ce8f70c62c52,Gulf Trading & Contracting,Healthcare,2016,4874857,796,14,QAR
+97871719-ee51-4e04-90d5-e4ebdcdfa807,Desert International,Technology,2007,10080510,380,6,QAR
+105cc18a-b96b-4238-8fac-637352af0ff2,Pearl International,Logistics,2007,4881137,388,11,QAR
+053b68a1-dc18-4a59-b3d9-e3788a36d5cc,Gulf Group,Retail,2012,8869689,346,9,QAR
+0a3cfc29-2f07-48a0-99cf-5ee5295f17ff,Doha Group,Healthcare,2021,6623769,690,13,QAR
+a9373c76-7a9f-42c0-a07c-5b601679268c,Pearl Trading & Contracting,Technology,2015,9093223,797,10,QAR
+de9fc834-8ce8-47a1-a0a1-c0402ed92d66,Pearl Group,Logistics,2019,3933382,701,10,QAR
+1b014597-9aa4-45b6-9c44-ccd2b3de42da,Qatar Trading & Contracting,Logistics,2002,9448331,487,12,QAR
+6bf5fd84-6474-4dc4-b7a1-1c4022b893c1,Qatar Solutions,Healthcare,2010,634055,482,6,QAR
+9a9f2dac-3458-4449-b24b-629ef4cacf23,Desert Trading & Contracting,Hospitality,2021,10577080,696,1,QAR
+4cf1907e-2286-4c12-b2f2-310981bbe9c4,Doha Est.,Construction,2011,11197597,749,6,QAR
+a4a052f2-d57c-4921-b72f-4076879307f0,Gulf Group,Construction,2022,8570924,440,1,QAR
+47e012bd-b88f-483a-b756-f456cc6b3500,Gulf Solutions,Logistics,2019,8671548,776,13,QAR
+ca5cfcc9-bc8b-4516-af3a-470fa36c7abf,Pearl WLL,Retail,2015,11595479,538,8,QAR
+445cbb1c-5900-4051-87ec-291d8061aae8,Qatar International,Retail,2006,13333107,688,0,QAR
+5a7cb854-33f7-4727-94a2-b0e5720cafc5,Zubara Trading & Contracting,Technology,2012,13641133,675,13,QAR
+db7b6337-011a-444e-b80a-139dbd74ded4,Qatar WLL,Construction,2004,13516728,731,0,QAR
+c0809e71-fb96-4812-b0cb-56b0ba628ccc,Pearl International,Retail,2014,7003216,643,3,QAR
+4a235bac-3360-46d4-bb0a-3c3c3ab97f97,Desert Solutions,Construction,2004,5605724,679,5,QAR
+c1f740c6-cb9a-4360-a125-88c288976180,Zubara Solutions,Logistics,2012,4381185,452,6,QAR
+b0ae2d02-085b-4ec4-8fe0-ccfbfe2d8f7f,Desert WLL,Technology,2007,6193075,609,4,QAR
+f73832d6-1af5-4baa-9462-58a8fd16df85,Gulf Est.,Logistics,2009,802186,525,8,QAR
+9d5bd171-889f-4273-a11d-711a4c6fcd16,Qatar Trading & Contracting,Retail,2002,9033879,816,4,QAR
+7a5098b6-efd8-4446-aed6-59b005f6165d,Zubara Trading & Contracting,Retail,2002,12183705,789,2,QAR
+64c191f8-6027-412f-955d-c1657200d416,Qatar Group,Logistics,2016,7166455,302,2,QAR
+8945dd9d-f585-42da-a208-622c2b1f907e,Zubara Est.,Healthcare,2014,13797992,656,1,QAR
+215e29e3-6591-4e01-b0ee-aa97f7e4c9b3,Gulf Trading & Contracting,Technology,2008,6546914,631,9,QAR
+65653a5a-1a7f-461e-91ab-e891ecfffb51,Doha Trading & Contracting,Healthcare,2010,5006554,525,7,QAR
+960b0265-7352-47cc-80e6-e2ec38c00a66,Desert International,Technology,2004,8697295,753,4,QAR
+2448087a-a5bc-4e95-9e6c-00d7b852b054,Desert Est.,Hospitality,2004,14218476,413,7,QAR
+99709604-d8c5-4d6e-b5d7-6ca00d53182f,Pearl International,Healthcare,2018,2485209,622,7,QAR
+9fbd53e4-7884-413a-a536-1cbebc959f3f,Qatar Solutions,Healthcare,2012,7926263,446,7,QAR
+5c51e91b-cd62-45e6-aa03-94a84e6f67aa,Desert Trading & Contracting,Technology,2015,6219720,662,12,QAR
+0678cff0-1c22-4c5b-892c-761c36355fab,Doha Est.,Construction,2003,6615518,721,11,QAR
+5261aa0b-dd82-4845-b0e3-db9eb19d1b2d,Pearl Solutions,Healthcare,2018,1209662,834,9,QAR
+8fdf57d9-046f-4fe8-963f-57e328e0ae65,Qatar Solutions,Healthcare,2006,3092670,381,3,QAR
+01dc2d99-f69f-4ac2-8e8e-7118d10bbed2,Qatar International,Healthcare,2011,11149894,523,12,QAR
+6f58ddc8-12ca-4275-9680-13ac1836bcf5,Zubara Solutions,Retail,2008,12986672,659,14,QAR
+b0fb315d-76dc-44b5-9e3d-47179c3b4438,Qatar WLL,Healthcare,2002,6993509,766,13,QAR
+99430e21-85d4-4645-b04a-890fd5f983d8,Qatar Trading & Contracting,Construction,2014,10552829,336,12,QAR
+cc9deebe-163f-41b2-ad01-0a479d49b784,Zubara WLL,Hospitality,2003,6645265,623,10,QAR
+9410fc8b-983e-4aae-8789-34fd20aac73c,Doha WLL,Logistics,2016,1097897,321,9,QAR
+a85b1d93-ade7-40e6-a8d8-56e7b6918865,Gulf Group,Construction,2013,4076511,584,11,QAR
+a68111d7-d6b1-4155-b3a5-a250ad05bce0,Desert Solutions,Technology,2019,2435740,759,6,QAR
+95251aa6-faa6-4c47-a4d3-0864277df8d8,Pearl Solutions,Retail,2005,3677326,378,2,QAR
+45d82786-926c-41fc-b3dc-e2b33deb8ce0,Gulf Group,Construction,2001,1312461,584,3,QAR
+60327ff3-107f-47d9-ac10-00dc3744847d,Doha Solutions,Healthcare,2008,8406166,456,10,QAR
+94e16380-dd68-4656-b2d6-143bf74a31a0,Desert Group,Logistics,2019,9809205,758,10,QAR
+e7928334-7719-4e8a-a0aa-9c40c402f694,Gulf Trading & Contracting,Logistics,2011,724695,320,14,QAR
+fe8a9a83-a7f6-479e-aba1-6f08747792d4,Pearl Solutions,Hospitality,2005,10299314,752,2,QAR
+a0264acb-e799-4862-a0e5-218ca342c2c4,Gulf Trading & Contracting,Construction,2005,9808092,462,0,QAR
+db68b3cc-eaf1-4b5f-bcfa-247ee0290d96,Doha WLL,Construction,2014,12450571,507,10,QAR
+106d2b91-fd94-4098-8ae4-06ab61f0a8d0,Desert International,Retail,2016,6172540,608,7,QAR
+b23bdcdb-d439-4cfc-a87d-efce2763f0c1,Gulf International,Construction,2019,10107366,686,12,QAR
+c8f3c8af-b17c-47f3-bcb1-a98c7d7fe7d4,Desert Est.,Hospitality,2002,8510643,826,8,QAR
+511d3cdc-534b-4513-bdcf-fb62e8769af7,Zubara International,Retail,2011,6711411,820,5,QAR
+c46ef79c-abeb-47f4-9afd-64d4aba47ee2,Doha WLL,Logistics,2021,7830292,416,1,QAR
+7c040afc-5d55-493b-88d7-b1e25e71a3f5,Gulf Est.,Retail,2007,9667121,619,1,QAR
+a9967218-9851-491b-99a9-4167effa520f,Zubara International,Technology,2012,14042104,401,8,QAR
+334728e1-0396-4883-bab6-a972fdf30ff1,Gulf International,Technology,2008,5782379,345,14,QAR
+e8e67b1a-90a5-4a26-807d-b311196cbee5,Zubara International,Hospitality,2019,10234816,541,11,QAR
+644fe66f-23d1-45af-bef6-a406e1db3be4,Doha Group,Retail,2000,13258988,415,9,QAR
+90d69167-8f68-46d5-bf9a-95da86c26fa0,Zubara Group,Logistics,2006,7545209,421,1,QAR
+e69e90c0-52bf-4842-82d2-0e32a1a58945,Qatar Group,Hospitality,2016,10512519,616,2,QAR
+5a7393bb-77d5-422a-9ae5-f568b1c00109,Gulf International,Retail,2005,14773608,658,14,QAR
+3866546a-a1e1-46fb-b7ee-f64eeb85cb39,Doha Group,Hospitality,2007,9252967,617,3,QAR
+f9c2f4e5-68d2-4604-b062-68e8f82704c1,Zubara Solutions,Technology,2019,10035695,689,9,QAR
+347941e3-4b23-4854-9f8d-b37d18d75392,Zubara Group,Technology,2008,5313673,313,10,QAR
+1041282a-f0c5-473d-aa5e-a496d61d6ac1,Qatar International,Hospitality,2022,8474411,836,12,QAR
+abf76d38-79e1-4bb8-9a73-62eef3c6e5f0,Gulf Group,Technology,2022,6652941,655,12,QAR
+286dc213-4cbd-4803-96c1-66b3db37b8c9,Pearl Est.,Technology,2011,3403633,848,7,QAR
+9529b40c-0154-4f15-9aa1-07fd66f17213,Doha Solutions,Technology,2009,4441106,334,12,QAR
+61f5cd68-4ae1-4af7-8206-8877cdadc13e,Pearl International,Retail,2006,7738987,458,9,QAR
+a42106ed-3a7e-4d20-8e47-7c2fab58406f,Pearl WLL,Healthcare,2003,4688891,663,13,QAR
+d7aaba11-e280-40bf-8a6b-538f520c23cb,Desert WLL,Construction,2016,10280146,719,9,QAR
+94bad136-47f7-42d3-ba10-c3815598437b,Pearl Group,Hospitality,2001,789102,717,3,QAR
+dd9866c3-2b62-490f-bcf4-d0cc5d659667,Zubara Group,Technology,2018,11686361,545,12,QAR
+a97c913c-a3cf-458b-a02c-7a87fbfd380c,Desert Solutions,Healthcare,2017,11898695,320,14,QAR
+1ce8c3a9-56e9-418a-a6ed-b4abc43e70ee,Doha Solutions,Construction,2007,13240707,777,6,QAR
+885310b6-5ff2-41fb-b07c-7e83544bea4d,Qatar WLL,Logistics,2013,4350241,674,4,QAR
+bb2d1107-31bf-49d4-91fa-1d3c4c8d888a,Pearl International,Healthcare,2008,5384797,801,11,QAR
+9899b70f-389c-48da-b39b-1596a377cd81,Pearl International,Retail,2019,13844897,444,10,QAR
+fd1eba39-49c1-4394-9a69-eb038f14b395,Doha Trading & Contracting,Hospitality,2001,11312578,528,4,QAR
+ae7ce3e1-ff11-4e47-b114-1f955656aac1,Doha WLL,Hospitality,2012,11893942,602,14,QAR
+e458b8eb-7f51-4eaf-b7f7-f258051849b1,Gulf Group,Technology,2021,8184365,660,0,QAR
+91aa7b90-9779-468e-9124-9a3d3252fb4c,Pearl WLL,Technology,2011,11356760,583,8,QAR
+0ee4683e-a195-4918-ba50-1e03374ccc6f,Gulf Est.,Healthcare,2011,8980932,604,0,QAR
+8e62db5e-11f0-40c0-8489-d857f4df3ba3,Desert WLL,Logistics,2011,4122138,633,1,QAR
+5391a01b-6705-47bc-8a54-1356efbf002d,Doha Est.,Hospitality,2000,4864406,334,5,QAR
+89b271ce-dbbe-4572-9078-0ed601bd0d92,Pearl Est.,Technology,2004,8000960,505,11,QAR
+c0b13dff-4eb3-466a-a541-04434313f173,Qatar WLL,Healthcare,2017,1680887,550,10,QAR
+6c62ce9a-2ecf-4acb-9564-df81f498c7c6,Zubara Group,Retail,2017,2396220,484,6,QAR
+5f7974cf-a847-42be-aaec-ac1b401cc155,Gulf Group,Hospitality,2005,13095027,450,13,QAR
+4c139304-230d-4b67-85a0-26cc1f70345f,Pearl WLL,Construction,2009,10937499,674,7,QAR
+89de8238-49ce-4488-8028-068cbde51779,Qatar Est.,Retail,2022,3622951,651,5,QAR
+9b636ccf-6e5d-406f-958d-a22f4047b8e0,Pearl International,Construction,2000,9853526,418,9,QAR
+e97cbfed-5091-4c89-acc2-1d8659238332,Gulf Group,Logistics,2017,8917233,444,9,QAR
+2ef7b6c6-1e9e-4ff4-80b4-b68031ca7399,Doha WLL,Technology,2007,11416184,300,2,QAR
+f220cb73-b1b9-428a-9fb8-e5653e894a07,Zubara Est.,Healthcare,2008,5328761,519,1,QAR
+5b6ceda8-7ff8-468c-b7c4-0644a740131b,Qatar International,Retail,2000,3325896,388,12,QAR
+c69ef895-920f-4588-b013-cf4e62ffc5c4,Doha Est.,Healthcare,2008,9408385,680,5,QAR
+2717af78-6417-4dce-8fca-e5a816c0b3b2,Zubara WLL,Logistics,2018,14065381,781,1,QAR
+3e56171c-030f-42ad-bd9d-0e67feedd080,Pearl Trading & Contracting,Technology,2012,6633066,643,13,QAR
+600d2006-d0b6-4e88-9756-d7a037558950,Zubara Trading & Contracting,Healthcare,2014,6094176,375,9,QAR
+5c690141-9032-4b0d-85e3-fd574f508b27,Pearl Solutions,Hospitality,2000,14111312,796,2,QAR
+88b9b48f-342e-47a8-b7ef-f4daadd1bab1,Desert International,Construction,2010,8600706,302,4,QAR
+2155f5a9-b549-4db8-b32b-4d2c7e5a9626,Qatar Group,Logistics,2020,5938684,453,8,QAR
+83e248cc-4b41-49c3-9fe0-8914fa93c1b5,Desert Est.,Construction,2015,9293380,599,3,QAR
+d4dca124-3a3c-4a8d-a220-f7ed3852dc78,Gulf International,Logistics,2017,3279499,726,12,QAR
+6a380787-3219-4328-9f58-b8c3319bb25f,Pearl Solutions,Healthcare,2014,6061112,350,14,QAR
+197d13b0-cc1a-4bca-98a9-2603dc2a4280,Desert Est.,Healthcare,2021,14038066,633,12,QAR
+9bce6b12-1a6b-4ac7-b639-b2000a1ac09e,Desert Est.,Hospitality,2013,11677498,455,2,QAR
+bfd368ed-8f2e-419f-b55b-cc87923a3c26,Qatar WLL,Logistics,2017,6803745,389,8,QAR
+b9c1860d-80ad-436e-a219-8b77eece2933,Zubara Solutions,Hospitality,2009,12981574,458,6,QAR
+3f423781-784f-4a75-9997-5536d3dc2af0,Doha Group,Healthcare,2009,9044291,383,3,QAR
+4832a410-ab12-4a0c-811a-45dcc509446b,Zubara International,Retail,2011,2406039,661,14,QAR
+c414eb41-5237-472c-9653-61a9baac27c6,Gulf Est.,Logistics,2021,6487029,519,8,QAR
+3dafb5a8-459b-4cc2-8aa9-2c62f6157d90,Qatar Trading & Contracting,Construction,2009,7310183,451,0,QAR
+27c9de7c-60e6-4a41-9959-b3af385e6974,Qatar Solutions,Healthcare,2003,6377809,830,3,QAR
+02dcb9a2-528c-4c4c-9375-e7728b4d9c30,Desert Group,Retail,2017,4928690,738,1,QAR
+c2af9aa2-27e9-44af-bde6-c9d4dfd8d856,Pearl Trading & Contracting,Technology,2011,1512384,731,4,QAR
+610315fa-936f-4409-bcf8-441cc3bd12e8,Gulf WLL,Technology,2009,13288680,376,12,QAR
+6bc56b0e-9d06-44dd-bbac-8787c63acc6a,Doha International,Retail,2001,5236319,562,4,QAR
+d1420ae8-da8a-4fda-b947-8d09f1ae91b1,Qatar Solutions,Construction,2021,2554780,466,8,QAR
+79e5fdcd-20b2-4574-aee0-230a4e6e5038,Doha Solutions,Hospitality,2013,11439922,517,5,QAR
+e0bdaf71-9503-47c8-a7ae-0019a31761f2,Qatar Est.,Logistics,2003,3758084,652,3,QAR
+ab6c0e22-3ef0-4165-ae9f-b48e352e7949,Gulf Trading & Contracting,Retail,2005,13460451,816,11,QAR
+e654bd0d-1840-43b6-9bd8-cf4edf44240c,Gulf Est.,Logistics,2007,10979153,366,5,QAR
+1491900c-51a6-41b5-82bc-9caea4965cf0,Desert Est.,Construction,2002,12632693,429,6,QAR
+f9e21353-4539-4ef7-b41c-eafaeef5a497,Desert Group,Logistics,2016,14643266,653,6,QAR
+f8970fcf-72da-4297-885b-e068d5a10d56,Zubara WLL,Logistics,2011,12654297,847,4,QAR
+fa80db07-dc2c-4b7d-9960-a0cdca0a89ed,Pearl Est.,Retail,2022,3383791,745,13,QAR
+19a72638-b0c8-4f5f-b2b2-bb8142e7f8df,Doha WLL,Retail,2015,4147371,814,13,QAR
+ed99aeae-4d9c-4810-b1b6-748f38db62a8,Pearl WLL,Technology,2007,2626453,816,3,QAR
+c83a57ea-0287-4ce8-87cd-484b8ea9a131,Desert Trading & Contracting,Retail,2020,13751667,705,1,QAR
+aa5caf2f-fe20-4495-89df-951a10ed8aab,Doha Est.,Hospitality,2005,13616915,808,13,QAR
+17d3aade-f14a-4ec0-ba38-a8f9c52ddd4a,Desert Trading & Contracting,Construction,2012,3770209,660,4,QAR
+166fcc41-f21e-43fb-b199-26a8d6bdaaf9,Qatar Solutions,Retail,2008,8710880,479,13,QAR
+d5fed847-7da4-4993-9e4b-0464eaa2b3fd,Qatar WLL,Construction,2022,7406117,718,5,QAR
+9e998fdc-0ffa-40fb-994a-508e95f86bc2,Gulf International,Hospitality,2004,2294291,789,11,QAR
+2e693e90-41b8-4a4c-9293-be576c51b23a,Doha Group,Logistics,2017,13170380,457,7,QAR
+ea0d3b3a-9aed-47e1-8f1c-f1fc1d1c15a0,Qatar International,Logistics,2005,3304802,306,3,QAR
+e809dcb5-3000-4662-9524-5d484a397c93,Zubara Trading & Contracting,Healthcare,2002,7584609,429,2,QAR
+241436ba-876d-4edc-b1da-e607e5f0fb7f,Qatar International,Hospitality,2017,1990687,565,8,QAR
+a4ac0e68-fdba-419f-bac4-44ab5d843b8c,Qatar Trading & Contracting,Healthcare,2021,5772864,463,14,QAR
+e70cf92b-2c4a-4c3f-9cc6-fe5b5f47d0fe,Zubara Trading & Contracting,Logistics,2015,13775957,537,12,QAR
+01b955ac-f373-487b-97f5-4e9c996c0942,Desert Solutions,Technology,2008,4717733,324,12,QAR
+3e8ea49a-db03-4002-a682-41c5a1189d6b,Pearl Group,Healthcare,2001,9954531,836,14,QAR
+1374a295-b2e5-49f0-a5f0-f8f91b116fcd,Desert Est.,Hospitality,2011,4702271,427,11,QAR
+c437f58e-50b1-4545-b9be-f251fb831ef2,Pearl International,Hospitality,2017,2256124,746,5,QAR
+56e4627f-c86c-4079-b9ca-39db84e765ee,Pearl Solutions,Logistics,2001,8074587,766,14,QAR
+c6873adc-e188-4ab9-947e-b3431b28f975,Gulf Est.,Technology,2001,12393513,644,1,QAR
+768b5cac-d205-42a5-9502-6bfcff017a90,Zubara Solutions,Construction,2014,14287592,382,8,QAR
+fc6117a7-08bf-420b-9b6d-b0ed35618487,Gulf Est.,Retail,2013,9026086,379,11,QAR
+e2314019-388d-4bcb-a065-6bf43c765eab,Doha WLL,Hospitality,2006,10516295,400,6,QAR
+1db86fff-07ae-49ae-8649-f1619b00929d,Desert WLL,Healthcare,2019,2044613,530,1,QAR
+28c5d8ed-c288-4591-8a94-d411e9497332,Pearl WLL,Logistics,2002,2956070,454,11,QAR
+194ac2ce-3f50-4800-8cf1-aff43ee63a3c,Zubara International,Healthcare,2021,12890020,809,6,QAR
+737da8c4-4092-478e-b4e1-36caf246cac9,Qatar International,Technology,2020,5977093,770,9,QAR
+118f02f4-cefd-417f-aba3-bae944edf887,Pearl Trading & Contracting,Healthcare,2020,10258681,541,12,QAR
+a0651051-adc9-48c6-a4bf-3f4ecd673c41,Pearl Est.,Construction,2004,11432396,463,0,QAR
+30c155e8-7d3d-4bd0-8704-a4e1939dac9a,Gulf Trading & Contracting,Hospitality,2010,5878750,607,6,QAR
+98f6d949-6347-4cae-92f4-39a6160dff94,Pearl Group,Logistics,2003,6423361,526,8,QAR
+4da564c6-8d21-4608-9a59-b960bdd705a6,Pearl WLL,Healthcare,2005,8096585,320,9,QAR
+ab820c12-f777-423b-baca-3084ff05e1b6,Pearl Trading & Contracting,Retail,2016,10988951,692,8,QAR
+5f85326a-3bd6-411a-b0ef-dbf4de3b6169,Doha Group,Hospitality,2015,3782972,396,9,QAR
+377560dd-a9bc-4a29-84b0-d1f76db350c0,Qatar Group,Hospitality,2007,2819124,583,10,QAR
+af90654d-d329-4b80-a7f8-92bcf6224da3,Qatar Solutions,Logistics,2007,2227408,378,0,QAR
+891af0d3-66b5-42a8-adbf-116ebcc57f2d,Desert Est.,Technology,2004,13637311,748,6,QAR
+6bc8211b-105f-419f-8117-ff0f5164e4e6,Pearl Est.,Retail,2022,6854986,684,12,QAR
+4b753896-7a69-49b6-a559-549745d20e80,Gulf Solutions,Retail,2004,3793331,576,7,QAR
+d3cee5fb-f25f-4d33-ae1a-17f95a1c22cb,Qatar International,Hospitality,2010,9089747,698,2,QAR
+87a9d407-3fbe-44d8-b5e0-4053972edaba,Gulf WLL,Technology,2010,8981209,560,4,QAR
+8194889f-4fb5-4461-8267-7c062e88e73c,Zubara International,Construction,2005,3018638,667,11,QAR
+7e1f7fdc-68db-462d-9970-bc7a8cc2b636,Doha Trading & Contracting,Retail,2001,14621422,681,3,QAR
+88f0aeff-a92e-40af-9cce-57c157ac2dca,Zubara Trading & Contracting,Retail,2022,12906973,669,9,QAR
+1fcbc995-2355-4edc-99c9-82bf699e1b71,Pearl WLL,Hospitality,2007,3400737,673,12,QAR
+5bed63d4-7f2d-4077-9ade-26bee576db8b,Pearl WLL,Construction,2010,3793705,572,7,QAR
+0aa00030-16e7-4ab4-84b3-58b92fd80f4f,Qatar Trading & Contracting,Retail,2007,10762330,423,9,QAR
+445bfb1f-cb80-401e-b53d-a9bbde48a8e3,Doha Group,Logistics,2019,10857149,471,2,QAR
+25fdeaff-cb09-4780-bdd1-1bc3f0b85d32,Zubara Trading & Contracting,Healthcare,2002,2717181,338,0,QAR
+278c2b6c-5c2e-4d17-9993-c05652bf0d03,Desert Trading & Contracting,Construction,2020,5377708,601,7,QAR
+a90d870d-df4d-4dc2-88f3-b0dda33a5698,Zubara WLL,Technology,2021,14189493,534,8,QAR
+8b95a3ec-82c9-4f40-8475-da7b4cc445aa,Zubara WLL,Healthcare,2012,3731185,840,4,QAR
+d3c5f6a7-f6cd-432d-8fa7-d1f0968fd58e,Desert Solutions,Construction,2014,8859922,706,7,QAR
+eb7df432-f1db-4bb9-831a-901b0f2817c5,Desert Est.,Logistics,2010,2099908,652,7,QAR
+29b1ace2-7a1b-46f1-a75d-dda2a41e81c8,Gulf International,Technology,2022,6449852,329,6,QAR
+94e09b2f-8566-40ef-b104-ac0e49411a4d,Desert Trading & Contracting,Healthcare,2014,3471783,661,9,QAR
+10c07ef5-f8a0-4d17-bba1-603dfe6643a7,Doha WLL,Healthcare,2002,2898083,403,2,QAR
+5031b8fd-831f-4a48-88f9-eb1d134270b4,Qatar Group,Technology,2009,1189556,601,6,QAR
+c2d25929-4e11-4ccc-8d51-476a2106266a,Gulf Solutions,Construction,2008,1616271,312,8,QAR
+bd918535-d878-405f-8363-1f361346af3e,Desert WLL,Logistics,2009,14150521,613,5,QAR
+65c29042-7d93-48ff-a1e7-016008797fe9,Desert Trading & Contracting,Logistics,2013,4976321,736,8,QAR
+f1ad506a-30c2-46c8-9cba-52943fde4e10,Desert Solutions,Technology,2022,7239013,510,4,QAR
+ac2c6296-5818-4450-8272-468bf31f45bc,Qatar WLL,Healthcare,2003,14763315,835,5,QAR
+a719a2f0-c4a5-491e-9910-eaa7ff8bfb02,Gulf Group,Healthcare,2005,11089652,704,9,QAR
+10ae2bad-ffcc-4038-9c5e-de54183089f6,Zubara International,Hospitality,2012,14015795,572,6,QAR
+e6e1d695-f8e1-460a-a1f9-1b6c07eabcfc,Desert Est.,Logistics,2002,10608631,635,9,QAR
+72f9630f-7ada-4765-bb94-5d79d8e0b5f9,Desert WLL,Logistics,2001,7856061,458,11,QAR
+4c0e5e4d-a5ea-4b0a-b6ce-64e84187ac63,Desert Solutions,Retail,2013,2914802,705,7,QAR
+99539ecc-1644-4f15-bead-d157e2d72ae1,Pearl WLL,Logistics,2005,12572052,318,12,QAR
+b37331a7-f7d0-40c0-9fb6-15bf3d026daf,Desert International,Retail,2022,6867712,445,14,QAR
+24655a1a-3e59-4471-a79a-e1f8957654c8,Desert Trading & Contracting,Technology,2014,10179818,417,12,QAR
+0bb0b411-5445-4004-b222-36ae41f69d9f,Doha Trading & Contracting,Logistics,2003,811955,346,10,QAR
+a5a16bf9-3037-4e5a-9732-bf6d50f3b81c,Zubara International,Hospitality,2010,7823494,436,9,QAR
+abc73182-8e27-4bd3-9724-27f02813abd7,Pearl Trading & Contracting,Hospitality,2009,11151697,553,5,QAR
+1047d49e-5385-43f0-ae58-c82b97980a2e,Pearl International,Retail,2012,6220626,725,2,QAR
+863b18c2-29d2-4274-8599-97fbef1237d9,Zubara Group,Technology,2004,9475708,348,4,QAR
+34890d6b-aeaa-4227-a8be-6e9c18891512,Qatar Est.,Hospitality,2005,10225529,559,13,QAR
+041e7172-4e02-42c7-9015-7bf1433f9a8c,Qatar Solutions,Retail,2003,11635784,481,13,QAR
+b257ef75-84f2-4fa6-8692-62ef8e444a4b,Desert WLL,Hospitality,2019,3528631,847,4,QAR
+eaa51a75-152b-4b61-82e2-7690081b3b50,Zubara WLL,Construction,2021,10302630,462,6,QAR
+31341b1f-1648-4cdc-b4f7-038043f26759,Desert International,Construction,2015,986799,481,14,QAR
+38053ef5-d307-4ee1-9e7c-1182ce674f25,Qatar Trading & Contracting,Healthcare,2005,12810059,527,7,QAR
+faa6fd1d-5b8d-41ee-b65a-7b1fc412997b,Gulf WLL,Construction,2010,11351768,832,3,QAR
+d1f08e45-7fed-442f-92e8-1729e50cb1c4,Qatar Trading & Contracting,Technology,2006,2592101,698,1,QAR
+44e2ceb1-1158-448f-b7b3-eb8a83d1acd6,Gulf WLL,Healthcare,2009,4041483,441,8,QAR
+0431d368-96c4-4039-bd9a-afce137bbc99,Pearl Group,Healthcare,2017,2363236,430,6,QAR
+50c63b68-c8ce-44c1-95c4-b44bfacd691b,Qatar Est.,Retail,2018,950930,683,11,QAR
+60fd2a47-b5a1-4a2c-b1fc-b61f34cb73a5,Doha Est.,Retail,2000,12565969,789,8,QAR
+c5a42061-fcb9-4f5c-9e72-71d8fa52ce4c,Zubara Trading & Contracting,Retail,2001,7518523,342,8,QAR
+6ffd5b0d-e851-4b19-b737-6f303d2f647d,Zubara Trading & Contracting,Retail,2001,5951973,816,1,QAR
+9834815c-d274-456d-9b2b-b68c321e995d,Zubara Trading & Contracting,Construction,2009,6332801,443,2,QAR
+1f6a779e-2cb4-44a6-8467-16b6fd3f208f,Pearl International,Hospitality,2014,3866823,593,11,QAR
+fe53a038-6573-4a15-a0b1-11cbbda8d491,Gulf Group,Technology,2018,5318750,331,6,QAR
+fc187f8f-6000-4c09-9cf7-70c81a800aa9,Pearl WLL,Construction,2003,12720269,513,14,QAR
+9d17f506-ea4a-4c82-a58c-26fb2645aba2,Pearl International,Hospitality,2013,2711738,680,8,QAR
+f66b08aa-3945-4281-aa1f-1a505cf14e6f,Qatar WLL,Construction,2016,7940449,553,2,QAR
+7f3a38c8-baee-4970-910b-f483fb2acf97,Desert Trading & Contracting,Construction,2019,6810114,735,6,QAR
+a81efa35-8ff2-4d79-9ec4-d14a2ed5f05e,Doha Solutions,Construction,2010,9838770,606,10,QAR
+04ffc6b5-a926-44c8-90a6-cb2291dab540,Desert Group,Hospitality,2008,14993859,784,4,QAR
+a3155a07-7053-41d9-8acc-d163c53feba3,Doha International,Construction,2009,10337371,767,5,QAR
+56a46a6d-1fa8-4e0d-adff-dfbee4dc7ef5,Desert Group,Technology,2012,11903546,339,5,QAR
+a4e12726-02b9-4e24-9d7f-79d050500f0f,Doha WLL,Retail,2022,3210527,819,4,QAR
+1d5d8fa2-51ba-4dab-848a-1f7a3025dbb8,Desert Solutions,Healthcare,2003,7879933,665,5,QAR
+e2849851-c314-4071-9c4e-85cd298cca71,Gulf Trading & Contracting,Hospitality,2010,6085709,315,0,QAR
+3e72c11a-86bc-4189-9160-378aa9458b41,Pearl Est.,Healthcare,2012,12090817,559,11,QAR
+4a638703-dcea-4c2e-9e34-d77debabc3c1,Zubara Group,Technology,2022,4452255,836,2,QAR
+3e4fb402-a888-4525-ad61-79a32df56665,Doha WLL,Retail,2019,12189625,681,13,QAR
+4f11ed59-0dc3-40ac-94bf-019561b773f1,Pearl Solutions,Healthcare,2008,11912851,785,1,QAR
+9e22a86c-0bab-4320-b19b-fb1274b5ea6b,Zubara Solutions,Hospitality,2011,10884778,749,14,QAR
+e7692828-1a0a-42c1-a0c3-9b335b44e1b2,Desert WLL,Retail,2020,2285559,525,5,QAR
+2a7f5fcd-3b44-44c3-b498-9d3475e6827e,Gulf WLL,Hospitality,2015,5123636,455,7,QAR
+f5fb6079-35ad-4b7c-be97-c69814f06e2c,Qatar International,Retail,2020,9734082,845,8,QAR
+1866701d-99c7-424d-9106-6029f4e01aac,Gulf Group,Construction,2010,12139736,578,5,QAR
+ba063f76-f033-4218-a949-80fefc336ee8,Doha Est.,Hospitality,2010,11419694,588,3,QAR
+36efbc74-7739-4ff7-b3a1-d86931ddee34,Pearl Group,Construction,2002,12240071,547,11,QAR
+cee32d03-0089-46b7-9015-6c943cd219c0,Zubara Trading & Contracting,Hospitality,2000,5240039,490,2,QAR
+d0ca998a-6798-4f81-a09f-5c862bdbed03,Desert Group,Retail,2014,3176517,442,14,QAR
+e5c0efd8-80cd-484f-93af-ffe8ad4b1281,Pearl Solutions,Retail,2020,9331924,601,3,QAR
+465e7aed-df4f-4ecd-b8ce-f5207e03a495,Zubara WLL,Hospitality,2016,2388806,692,2,QAR
+7ff7aed0-60e3-42e0-9de1-6693e63c7a36,Desert Est.,Construction,2018,4558848,550,10,QAR
+69ba6f78-07a1-4307-bf81-939e16386587,Gulf Solutions,Construction,2013,14789445,441,3,QAR
+7edf78cc-f1f3-45a3-8cdb-f72bd7c9f5dc,Pearl International,Technology,2018,1521469,806,3,QAR
+0f79cd9a-7504-4b69-a3d3-3e86b4e85923,Doha Trading & Contracting,Logistics,2005,12068854,382,13,QAR
+e8dd36ad-3ece-4df1-aba5-b6ddd6f77177,Gulf Solutions,Construction,2018,1441768,583,3,QAR
+f8756713-2dc2-4697-8152-680a9bd53ab1,Pearl International,Retail,2022,6624152,807,2,QAR
+19607eb9-af11-48fc-b259-709619ed6794,Desert International,Logistics,2020,7526492,764,13,QAR
+cc71adfd-9477-498d-87df-68ef547f0010,Doha Trading & Contracting,Hospitality,2013,3511786,633,13,QAR
+7ee21329-0601-4b9c-a318-e364e5f29e57,Doha WLL,Technology,2003,10118395,813,8,QAR
+e2976c9f-9ace-4add-a314-6e65bada3aa6,Pearl International,Logistics,2008,3708823,426,14,QAR
+28a0a56d-fed4-4d22-8092-fd92740dea25,Pearl International,Retail,2015,3831106,793,1,QAR
+fa9d43e3-3059-41eb-9b69-4feda0e770c5,Pearl Est.,Healthcare,2015,14452275,500,12,QAR
+06cac6b7-8406-42e4-b193-355efdbb93fb,Doha WLL,Technology,2016,9892609,779,0,QAR
+15b84d3c-d4fe-4000-847c-09ec12453fb3,Pearl WLL,Logistics,2011,2399054,826,8,QAR
+1b0515fc-e6a9-41d5-937e-e0541f98ea1b,Gulf Group,Hospitality,2021,7461383,832,2,QAR
+2fcade96-e80c-4439-8772-637b63163b8a,Zubara WLL,Retail,2018,13636003,754,11,QAR
+b47de558-beda-4c6f-a24d-a5a17747e7f5,Desert WLL,Logistics,2011,14639308,791,1,QAR
+06b95fcd-f71e-4add-ba26-27826585c2f8,Qatar Solutions,Retail,2000,14819175,386,5,QAR
+44833253-ed18-47a8-9f59-818489706f87,Zubara International,Retail,2017,11143344,561,9,QAR
+4b0d7c71-fe82-4563-8b0a-0845471e19f0,Gulf Solutions,Hospitality,2009,12451552,740,12,QAR
+1b4abe8b-0cfc-43e8-9982-56fe07103e75,Pearl Trading & Contracting,Technology,2007,4768173,590,12,QAR
+1481934b-2d23-4c20-b464-4f511c77c7f4,Desert Trading & Contracting,Healthcare,2005,11553104,601,0,QAR
+7c4de1a9-fbd5-407e-adf8-f2c6a6ae389e,Zubara Solutions,Hospitality,2000,13054841,640,4,QAR
+7058f0ee-6191-4643-997f-3f56e8f758ba,Doha International,Construction,2010,6594645,681,8,QAR
+99f4d7a8-6d39-4c1c-a75a-4fd792ae621e,Doha Est.,Retail,2008,8232752,482,8,QAR
+c38203b9-8fb6-47fa-b223-5f2a0e801357,Pearl Solutions,Logistics,2018,6419626,632,14,QAR
+cd8e28a1-9f65-4bba-8248-6dfd5a3ed594,Zubara Est.,Retail,2007,14663986,631,7,QAR
+4278a9a7-04f9-44e2-b8f3-93bbd97a94b7,Pearl Est.,Healthcare,2011,12237532,539,0,QAR
+bd1844cb-c48c-4359-aaf2-b08317644166,Pearl Group,Hospitality,2004,7222055,452,10,QAR
+9f25a17b-9852-424b-91df-c64b43267ad5,Zubara International,Healthcare,2014,4498422,623,13,QAR
+558d84b3-7c6e-46a7-a2fb-27bdc13e8a5c,Doha WLL,Construction,2004,11544590,711,7,QAR
+ae7bbd23-77ac-47f0-8911-6b0e93454e5b,Desert Trading & Contracting,Retail,2011,9326233,340,6,QAR
+9c09d3bf-1b12-4af4-9165-f123098144f9,Qatar Est.,Retail,2009,11430625,565,13,QAR
+caab7c13-b6e2-4b1c-8783-47c14080dd24,Qatar Solutions,Logistics,2008,14237336,850,11,QAR
+cd7b9bed-b8b4-41f2-a3ce-238e4d24f686,Gulf WLL,Logistics,2020,970529,686,13,QAR
+efda961b-5612-4eca-8fab-c552a5b124f8,Qatar Trading & Contracting,Retail,2011,9398978,534,0,QAR
+a133f875-91cd-4272-a274-4f9c46710081,Pearl Group,Healthcare,2020,14824285,348,14,QAR
+c97cf60c-fbe6-49f5-9868-7506a5c6241f,Doha Trading & Contracting,Logistics,2020,5166805,406,1,QAR
