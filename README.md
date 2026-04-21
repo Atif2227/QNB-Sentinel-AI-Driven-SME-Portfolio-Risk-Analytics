@@ -1,156 +1,181 @@
 # QNB-Sentinel-AI-Driven-SME-Portfolio-Risk-Analytics
 Developed an end-to-end SME risk engine for QNB using ADF-style ETL and SQL-based modeling. The system automates credit scoring by analyzing 10,000+ transactions via Python, applying AI anomaly detection to flag fraud. It transforms raw data into a 4-tier Power BI dashboard, enabling proactive, data-led financial decisions.
 
+---
+
 ## 📌 Project Overview
 
-Developed an **end-to-end risk scoring engine and intelligence suite** for SME portfolio analysis.
+QNB-Sentinel is an **end-to-end credit risk intelligence system** designed to support:
 
-- Integrated synthetic transaction ledgers with behavioral scoring models  
-- Automated loan decision support  
-- Identified financial anomalies in SME transactions  
-- Transformed raw data into **actionable credit insights**  
+- Automated loan decisioning  
+- Proactive SME portfolio monitoring  
 
----
+The system integrates:
 
-## ⚠️ Business Problems
+- **Azure Data Factory (ADF)** for orchestration  
+- **SQL Server Star Schema** for structured storage  
+- **Python-based risk scoring engine** for analytics  
 
-- **Manual Decision Bottlenecks:** SME credit reviews take weeks  
-- **High Liquidity Risk:** Difficulty identifying "Technical Default" cases  
-- **Limited Visibility:** Lack of drill-down into transaction-level behavior  
-- **Fraud Vulnerability:** Failure to detect anomalous transaction patterns  
+This enables the transition from **manual reviews → real-time AI-driven risk management**.
 
 ---
 
-## 🎯 Project Objectives
+## 🔗 View Live Demo
 
-- **Automate Risk Tiering:** Categorized **500+ SMEs** into:
-  - Green  
-  - Amber  
-  - Red  
-  - Maroon  
-
-- **Early Warning Signals (EWS):** Detect declining financial health  
-- **Transaction Monitoring:** Analyze **10,000+ transactions**  
-- **Executive Reporting:** Align dashboards with enterprise standards  
+👉 **[View Power BI Dashboard](https://app.powerbi.com/)**  
+> *(Replace with your actual Power BI report link)*
 
 ---
 
-## 📊 Data Source
+## Business Problem
 
-Synthetic dataset generated using Python to simulate real banking systems:
+QNB faces key challenges in SME lending:
 
-- **SME Profiles:**
-  - 500 entities  
-  - Attributes: Industry, Establishment Date, Legal Status  
-
-- **Transaction Ledgers:**
-  - 10,000+ records  
-  - Credits (Inflows), Debits (Outflows), Status  
-
-- **Domain Realism:**
-  - Qatari sectors (Construction, Energy, Tourism)  
-  - Currency: QAR  
+- **Operational Inefficiency:** Manual credit assessments take **5–10 days**  
+- **Hidden Liquidity Crises:** Difficulty detecting *Technical Defaults*  
+- **Data Silos:** Disconnected customer and transaction datasets  
+- **Fraud Risk:** Hard to detect anomalies across high-volume transactions  
 
 ---
 
-## 🏗️ Architecture & Data Modeling
+## Project Objectives
 
-Designed using **Star Schema Architecture**:
-
-- **Fact Table:**  
-  - `Fact_SME_Transactions`  
-
-- **Dimension Table:**  
-  - `Dim_SME_Master`  
-
-- **Relationship:**  
-  - One-to-Many (`1:∞`) via `BusinessID`  
+- Build a **WIMS-style automated risk analytics system**  
+- Design a **high-performance SQL Star Schema** (10,000+ records)  
+- Develop an **ADF-based ETL pipeline**  
+- Implement **Python-based behavioral risk scoring**  
+- Deliver insights via **Power BI dashboards**  
 
 ---
 
-## ⚙️ ETL & Data Ingestion
+## Data Sources
 
-### 1. Extraction
-- Python scripts extract SME profiles and transaction data  
+Synthetic datasets designed to mimic real banking systems:
+
+- **SME Master Data (`Dim_SME_Master`):**
+  - Industry, Location, Legal Status, Years in Business  
+
+- **Transaction Ledgers (`Fact_SME_Transactions`):**
+  - 10,000+ daily records  
+  - Credits, Debits, Status (Completed/Failed)  
+
+- **Risk Layer:**
+  - Derived outputs from scoring engine  
+  - Cash-flow stability and risk indicators  
 
 ---
 
-### 2. Transformation
+## Architecture & Data Modeling
 
-- **Data Cleaning:**
-  - Resolved naming conflicts  
-  - Ensured data integrity  
+Built using **Star Schema Architecture**:
 
-- **Scoring Logic:**
-  - Calculated `Final_Risk_Score`  
+- **Database:** SQL Server  
+- **Orchestration:** Azure Data Factory  
+- **Relationship:** One-to-Many (`1:N`) via `BusinessID`  
+
+**Modeling Logic:**
+- Transaction-level data (**Fact**) drives  
+- Risk status of SME entities (**Dimension**)  
+
+---
+
+## ⚙️ ETL & Data Ingestion (ADF Pipeline)
+
+### 1. Ingestion
+- ADF **Copy Activity** loads raw data into staging tables  
+
+---
+
+### 2. Scoring
+- ADF triggers Python scripts to compute:
+  - `Final_Risk_Score`  
   - Based on:
-    - Cash-flow stability  
-    - Payment success rate  
+    - Cash-flow volatility  
+    - Transaction failure rates  
 
 ---
 
-### 3. Loading
-- Processed data loaded into Power BI (**Gold Layer**)  
+### 3. Validation
+- SQL Stored Procedures:
+  - Enforce referential integrity  
+  - Detect orphan records  
+
+---
+
+### 4. Refresh
+- ADF triggers Power BI API  
+- Dashboards update with latest risk tiers  
 
 ---
 
 ## ✅ Data Quality & Business Rules
 
-### Data Quality
+### Quality Controls
 
-- **Primary Key Enforcement:** `BusinessID` ensures uniqueness  
-- **Range Validation:** Controlled realistic transaction limits  
+- **Primary/Foreign Key Enforcement:** Ensures relational consistency  
+- **Constraint Validation:** Non-negative transactions, valid QAR format  
+- **Deduplication:** Prevents duplicate transaction IDs  
 
 ---
 
 ### Business Rules
 
 - **Failure Penalty:**  
-  - Failure rate **> 10%** → Not eligible for *Green*  
+  - Failure rate **> 10%** → Risk downgrade  
 
 - **Liquidity Rule:**  
-  - Outflows > Inflows for **3 consecutive months** → *Red Flag*  
+  - Negative cash flow over **90 days** → *Maroon (Extreme Risk)*  
+
+- **Automation Rule:**  
+  - Score **≥ 70** → Fast-track loan approval  
 
 ---
 
-## 🖥️ Power BI Dashboard Analysis
+## 📈 Power BI Dashboard
 
-### Executive SME Risk & Portfolio Overview
+### Page 1 – Executive SME Risk Overview
 
-- **Purpose:** 30-second executive summary  
-- **Key Visuals:**
-  - Risk Donut Chart  
-  - Sector Heatmap  
+- **Audience:** CRO, Senior Leadership  
+- **Purpose:** Portfolio monitoring  
 
-- **Insights:**
-  - Exposure to **Maroon (Critical)** risk clients  
-  - Sector-level financial health  
-
----
-
-### Transactional Failure & Anomaly Deep-Dive
-
-- **Purpose:** Investigation tool for Risk & Fraud teams  
-
-- **Key Visuals:**
-  - AI Anomaly Scatter Plot  
-  - Cash Flow Trend Lines  
-
-- **Insights:**
-  - Detects anomalous transactions  
-  - Enables **Root Cause Analysis**  
-  - Flags fraud risks and early default signals  
+**Key Visuals:**
+- Risk Tier Donut (Green / Amber / Red / Maroon)  
+- Industry Heatmap  
+- Approval Funnel  
 
 ---
 
-## 🚀 Strategic Outcome
+### Page 2 – Transactional Failure & Anomaly Analysis
 
-- Accelerated loan decision-making  
-- Reduced manual intervention  
-- Improved fraud detection capability  
-- Enabled scalable risk analytics framework  
+- **Audience:** Risk Analysts, Fraud Team  
+- **Purpose:** Root-cause analysis & fraud detection  
 
-By combining **Python-based analytics** with **Power BI visualization**, this solution delivers a modern **FinTech risk intelligence system** for SME portfolio management.
+**Key Visuals:**
+- AI Anomaly Scatter Plot  
+- Inflow vs Outflow Time Series  
+- SME Watchlist  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Azure Data Factory (ADF):** Pipeline orchestration  
+- **SQL Server:** Star schema & relational modeling  
+- **Python (Pandas, NumPy):** Risk scoring engine  
+- **Power BI:** Visualization, DAX, anomaly detection  
+
+---
+
+## Role & Scope
+
+**Role:** Data & Risk Analytics Consultant  
+
+### Key Contributions
+
+- Designed **enterprise ETL pipeline (ADF-style)**  
+- Built **SQL Star Schema architecture**  
+- Developed **Python-based risk scoring models**  
+- Translated complex transaction data into **executive insights**  
 
 ---
 
@@ -160,8 +185,8 @@ By combining **Python-based analytics** with **Power BI visualization**, this so
 project-root/
 │
 ├── data/                # Synthetic SME datasets
-├── notebooks/           # Python scripts & analysis
-├── pipelines/           # Data processing workflows
+├── notebooks/           # Python analysis & scoring scripts
+├── pipelines/           # ADF pipeline definitions
 ├── dashboards/          # Power BI reports (.pbix)
 ├── images/              # Dashboard screenshots
 └── README.md            # Project documentation
