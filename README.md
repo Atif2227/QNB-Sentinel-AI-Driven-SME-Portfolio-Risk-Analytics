@@ -133,7 +133,7 @@ Built using **Star Schema Architecture**:
 ## 📈 Power BI Dashboard
 
 ### Page 1 – Executive SME Risk Overview
-![](Images/0001.jpg)
+![](Photos/0001.jpg)
 
 - **Audience:** CRO, Senior Leadership  
 - **Purpose:** Portfolio monitoring  
@@ -146,7 +146,7 @@ Built using **Star Schema Architecture**:
 ---
 
 ### Page 2 – Transactional Failure & Anomaly Analysis
-![](Images/0001.jpg)
+![](Photos/0001.jpg)
 
 - **Audience:** Risk Analysts, Fraud Team  
 - **Purpose:** Root-cause analysis & fraud detection  
