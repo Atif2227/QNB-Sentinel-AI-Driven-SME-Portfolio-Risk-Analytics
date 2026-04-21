@@ -23,7 +23,6 @@ This enables the transition from **manual reviews → real-time AI-driven risk m
 ## 🔗 View Live Demo
 
 👉 **[View Power BI Dashboard](https://app.powerbi.com/)**  
-> *(Replace with your actual Power BI report link)*
 
 ---
 
@@ -134,6 +133,7 @@ Built using **Star Schema Architecture**:
 ## 📈 Power BI Dashboard
 
 ### Page 1 – Executive SME Risk Overview
+![](Images/0001.jpg)
 
 - **Audience:** CRO, Senior Leadership  
 - **Purpose:** Portfolio monitoring  
@@ -146,6 +146,7 @@ Built using **Star Schema Architecture**:
 ---
 
 ### Page 2 – Transactional Failure & Anomaly Analysis
+![](Images/0001.jpg)
 
 - **Audience:** Risk Analysts, Fraud Team  
 - **Purpose:** Root-cause analysis & fraud detection  
