@@ -1,4 +1,10 @@
 # QNB-Sentinel-AI-Driven-SME-Portfolio-Risk-Analytics
+---
+**Role:** Senior Data Analyst, Consultant  
+**Domain:** Banking Analytics  
+**Objective:** The objective of this project is to develop an end-to-end automated credit risk engine and intelligence suite for Qatar National Bank (QNB) that transforms raw SME transactional data into actionable loan decisions through AI-driven scoring and anomaly detection.
+
+---
 Developed an end-to-end SME risk engine for QNB using ADF-style ETL and SQL-based modeling. The system automates credit scoring by analyzing 10,000+ transactions via Python, applying AI anomaly detection to flag fraud. It transforms raw data into a 4-tier Power BI dashboard, enabling proactive, data-led financial decisions.
 
 ---
@@ -191,3 +197,13 @@ project-root/
 ├── dashboards/          # Power BI reports (.pbix)
 ├── images/              # Dashboard screenshots
 └── README.md            # Project documentation
+```
+---
+## 👤 Consultant
+
+**Atif Noorul Hasan** <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
+
+🔗 Website – https://atifdata.com <br />
+✉️ Email – atif@atifdata.com
