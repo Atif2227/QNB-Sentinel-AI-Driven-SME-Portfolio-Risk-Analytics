@@ -5,7 +5,7 @@
 **Objective:** The objective of this project is to develop an end-to-end automated credit risk engine and intelligence suite for Qatar National Bank (QNB) that transforms raw SME transactional data into actionable loan decisions through AI-driven scoring and anomaly detection.
 
 ---
-Developed an end-to-end SME risk engine for QNB using ADF-style ETL and SQL-based modeling. The system automates credit scoring by analyzing 10,000+ transactions via Python, applying AI anomaly detection to flag fraud. It transforms raw data into a 4-tier Power BI dashboard, enabling proactive, data-led financial decisions.
+Developed an end-to-end SME risk engine for QNB using Microsoft Fabric ETL and SQL-based modeling. The system automates credit scoring by analyzing 10,000+ transactions via Python, applying AI anomaly detection to flag fraud. It transforms raw data into a 4-tier Power BI dashboard, enabling proactive, data-led financial decisions.
 
 ---
 
@@ -18,7 +18,7 @@ QNB-Sentinel is an **end-to-end credit risk intelligence system** designed to su
 
 The system integrates:
 
-- **Azure Data Factory (ADF)** for orchestration  
+- **Microsoft Fabric** for ETL & Pipeline orchestration  
 - **SQL Server Star Schema** for structured storage  
 - **Python-based risk scoring engine** for analytics  
 
@@ -45,9 +45,9 @@ QNB faces key challenges in SME lending:
 
 ## Project Objectives
 
-- Build a **WIMS-style automated risk analytics system**  
+- Build a **Automated risk analytics system**  
 - Design a **high-performance SQL Star Schema** (10,000+ records)  
-- Develop an **ADF-based ETL pipeline**  
+- Develop an **Fabric-based ETL pipeline**  
 - Implement **Python-based behavioral risk scoring**  
 - Deliver insights via **Power BI dashboards**  
 
@@ -75,7 +75,7 @@ Synthetic datasets designed to mimic real banking systems:
 Built using **Star Schema Architecture**:
 
 - **Database:** SQL Server  
-- **Orchestration:** Azure Data Factory  
+- **Orchestration:** Microsoft Fabric 
 - **Relationship:** One-to-Many (`1:N`) via `BusinessID`  
 
 **Modeling Logic:**
@@ -84,15 +84,15 @@ Built using **Star Schema Architecture**:
 
 ---
 
-## ⚙️ ETL & Data Ingestion (ADF Pipeline)
+## ⚙️ ETL & Data Ingestion (Fabric Pipeline)
 
 ### 1. Ingestion
-- ADF **Copy Activity** loads raw data into staging tables  
+- Fabric **Copy Activity** loads raw data into staging tables  
 
 ---
 
 ### 2. Scoring
-- ADF triggers Python scripts to compute:
+- Fabric triggers Python scripts to compute:
   - `Final_Risk_Score`  
   - Based on:
     - Cash-flow volatility  
@@ -108,7 +108,7 @@ Built using **Star Schema Architecture**:
 ---
 
 ### 4. Refresh
-- ADF triggers Power BI API  
+- Fabric triggers Power BI API  
 - Dashboards update with latest risk tiers  
 
 ---
@@ -152,7 +152,7 @@ Built using **Star Schema Architecture**:
 ---
 
 ### Page 2 – Transactional Failure & Anomaly Analysis
-![](Photos/0001.jpg)
+![](Photos/0002.jpg)
 
 - **Audience:** Risk Analysts, Fraud Team  
 - **Purpose:** Root-cause analysis & fraud detection  
@@ -166,7 +166,7 @@ Built using **Star Schema Architecture**:
 
 ## 🛠️ Tools & Technologies
 
-- **Azure Data Factory (ADF):** Pipeline orchestration  
+- **Microsoft Fabric:** ETL& Pipeline orchestration  
 - **SQL Server:** Star schema & relational modeling  
 - **Python (Pandas, NumPy):** Risk scoring engine  
 - **Power BI:** Visualization, DAX, anomaly detection  
@@ -193,7 +193,7 @@ project-root/
 │
 ├── data/                # Synthetic SME datasets
 ├── notebooks/           # Python analysis & scoring scripts
-├── pipelines/           # ADF pipeline definitions
+├── pipelines/           # Fabric pipeline definitions
 ├── dashboards/          # Power BI reports (.pbix)
 ├── images/              # Dashboard screenshots
 └── README.md            # Project documentation
