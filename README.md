@@ -2,10 +2,10 @@
 ---
 **Role:** Senior Data Analyst, Consultant  
 **Domain:** Banking Analytics  
-**Objective:** The objective of this project is to develop an end-to-end automated credit risk engine and intelligence suite for Qatar National Bank (QNB) that transforms raw SME transactional data into actionable loan decisions through AI-driven scoring and anomaly detection.
+**Objective:** The objective of this project is to develop an end-to-end automated credit risk engine and intelligence suite like Qatar National Bank (QNB) that transforms raw SME transactional data into actionable loan decisions through AI-driven scoring and anomaly detection.
 
 ---
-Developed an end-to-end SME risk engine for QNB using Microsoft Fabric ETL and SQL-based modeling. The system automates credit scoring by analyzing 10,000+ transactions via Python, applying AI anomaly detection to flag fraud. It transforms raw data into a 4-tier Power BI dashboard, enabling proactive, data-led financial decisions.
+Developed an end-to-end SME risk engine for QNB (with Synthetic data) using Microsoft Fabric ETL and SQL-based modeling. The system automates credit scoring by analyzing 10,000+ transactions via Python, applying AI anomaly detection to flag fraud. It transforms raw data into a 4-tier Power BI dashboard, enabling proactive, data-led financial decisions.
 
 ---
 
